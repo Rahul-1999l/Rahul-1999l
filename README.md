@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="banner" />
+</p>
 
 
 # Hi, I’m Rahul 👋  
@@ -11,7 +14,7 @@
 - 🧰 Tech: SQL (MySQL), Python (pandas, numpy), ETL, Star Schema  
 - 📊 Interests: Analytics, dashboards, automation, Airflow basics  
 - 📍 Location: Doha, Qatar  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rahul-pithani/) | [Portfolio](https://github.com/Rahul-1999l)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rahul-pithani-3baa90258/) | [Portfolio](https://github.com/Rahul-1999l)
 
 ---
 
