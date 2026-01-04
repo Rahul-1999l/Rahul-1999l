@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="banner" />
+  <img src="https://raw.githubusercontent.com/Rahul-1999l/Rahul-1999l/main/banner.svg" alt="banner" width="100%" />
 </p>
 
 
