@@ -13,7 +13,7 @@
 - 🔍 Passionate about turning messy data into clean insights  
 - 🧰 Tech: SQL (MySQL), Python (pandas, numpy), ETL, Star Schema  
 - 📊 Interests: Analytics, dashboards, automation, Airflow basics  
-- 📍 Location: Doha, Qatar  
+- 📍 Location: bangalore, INDIA   
 - 🌐 [LinkedIn](https://www.linkedin.com/in/rahul-pithani-3baa90258/) | [Portfolio](https://github.com/Rahul-1999l)
 
 ---
