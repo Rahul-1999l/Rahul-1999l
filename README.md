@@ -1,61 +1,40 @@
- 
-<div align="center">
+\<p align="center">\
+&#x20; \<img src="https\://raw\.githubusercontent.com/Rahul-1999l/Rahul-1999l/main/banner.svg" alt="banner" width="100%" />\
+\</p>\
+\
+\
+\# Hi, I’m Rahul 👋  \
+\
+\*\*Data Analyst / Analytics Engineer\*\* focused on \*\*SQL • Python • ETL • Data Warehousing\*\*\
+\
+\---\
+\
+\### 🧠 About Me  \
+\- 🔍 Passionate about turning messy data into clean insights  \
+\- 🧰 Tech: SQL (MySQL), Python (pandas, numpy), ETL, Star Schema  \
+\- 📊 Interests: Analytics, dashboards, automation, Airflow basics  \
+\- 📍 Location: bangalore, INDIA   \
+\- 🌐 [LinkedIn]\(https\://www\.linkedin.com/in/rahul-pithani-3baa90258/) | [Portfolio]\(https\://github.com/Rahul-1999l)\
+\
+\---\
+\
+\### 🚀 Featured Projects  \
+\
+\#### 🏗️ [MySQL Sales Data Warehouse & ETL]\(https\://github.com/Rahul-1999l/mysql-sales-etl)  \
+End-to-end warehouse project using MySQL + Python ETL (star schema, staging → dim/fact → analytics).\
+\
+\#### ⚙️ [QueueCTL Backend]\(https\://github.com/Rahul-1999l/QueueCTL-Backendd)  \
+Lightweight job-queue manager built with Python and SQLite.\
+\
+\---\
+\
+\### 📈 What I’m Learning  \
+\- Apache Airflow for scheduling ETL  \
+\- Building CI checks for data quality  \
+\- Advanced SQL window functions  \
+\
+\---\
+\
+⭐ \*Check my pinned projects below for full code & screenshots.\*\
 
-<img src="https://raw.githubusercontent.com/Rahul-1999l/Rahul-1999l/main/banner.svg" width="100%" alt="Banner"/>
-
-# Hi, I'm Rahul 👋
-
-**Software Developer | C++ • Python • React • AI/ML**
-
-B.Tech CSE (AI & ML) graduate passionate about building software, solving problems, and exploring AI.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rahul-pithani-3baa90258/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](https://github.com/Rahul-1999l)
-
-</div>
-
----
-
-### 🛠️ Tech Stack
-
-**Languages:** C++, Python, JavaScript, SQL
-
-**Development:** React, Tailwind CSS, Node.js, Express.js
-
-**Databases:** MySQL, MongoDB, SQLite
-
-**AI & Data:** Machine Learning, pandas, NumPy, LangChain, RAG
-
-**Core Skills:** DSA, OOP, DBMS, Operating Systems
-
----
-
-### 🚀 Featured Projects
-
-- 💰 **[Mojito Spend](https://mojito-spend.vercel.app/)** — Expense Tracker built with React and Tailwind CSS
-- 🏗️ **[MySQL Sales ETL](https://github.com/Rahul-1999l/mysql-sales-etl)** — Data warehouse with Python, MySQL and Star Schema
-- ⚙️ **[QueueCTL Backend](https://github.com/Rahul-1999l/QueueCTL-Backendd)** — Python and SQLite job queue manager
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul-1999l&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-1999l&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-
-</div>
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-1999l&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-
----
-
-<div align="center">
-
-**📍 Bengaluru, India | Open to Software Engineering Opportunities**
-
-</div>
+now edit this for me
